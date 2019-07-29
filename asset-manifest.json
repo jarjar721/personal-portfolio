@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.b8524cc8.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.85c335a8.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.85c335a8.chunk.js.map",
+    "runtime~main.js": "/personal-portfolio/static/js/runtime~main.8fd806ec.js",
+    "runtime~main.js.map": "/personal-portfolio/static/js/runtime~main.8fd806ec.js.map",
+    "static/js/2.8d248648.chunk.js": "/personal-portfolio/static/js/2.8d248648.chunk.js",
+    "static/js/2.8d248648.chunk.js.map": "/personal-portfolio/static/js/2.8d248648.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "precache-manifest.d9a17143ed2177b4fc6d898242ad210f.js": "/personal-portfolio/precache-manifest.d9a17143ed2177b4fc6d898242ad210f.js",
+    "service-worker.js": "/personal-portfolio/service-worker.js",
+    "static/css/main.b8524cc8.chunk.css.map": "/personal-portfolio/static/css/main.b8524cc8.chunk.css.map",
+    "static/media/about_me.jpg": "/personal-portfolio/static/media/about_me.ab44e4f3.jpg",
+    "static/media/style.css": "/personal-portfolio/static/media/icomoon.fdc5b341.woff",
+    "static/media/intlTelInput.css": "/personal-portfolio/static/media/flags@2x.d429a577.png",
+    "static/media/font-mfizz.css": "/personal-portfolio/static/media/font-mfizz.64c7cf6c.woff",
+    "static/media/laravel-ar21.svg": "/personal-portfolio/static/media/laravel-ar21.d77348fb.svg",
+    "static/media/nodejs-icon.svg": "/personal-portfolio/static/media/nodejs-icon.5c376133.svg",
+    "static/media/postgresql-icon.svg": "/personal-portfolio/static/media/postgresql-icon.96889989.svg",
+    "static/media/reactjs-icon.svg": "/personal-portfolio/static/media/reactjs-icon.70384772.svg",
+    "static/media/sis-i-gif.gif": "/personal-portfolio/static/media/sis-i-gif.5d5fbf14.gif"
+  }
+}
