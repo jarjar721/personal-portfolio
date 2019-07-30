@@ -18,7 +18,7 @@ export default class NavigationBar extends Component {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon" />
+            <span className="navbar-toggler-icon" />
           </button>
 
           <a className="navbar-brand" href="/">
