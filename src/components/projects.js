@@ -39,7 +39,9 @@ export default class Projects extends Component {
                 <li className="site-check">
                   Integrated Access Control and Priviledge Management
                 </li>
-                <li className="site-check">Scalable ER Diagram for larger investigations</li>
+                <li className="site-check">
+                  Scalable ER Diagram for larger investigations
+                </li>
               </ul>
 
               <div className="text-center">
@@ -49,6 +51,12 @@ export default class Projects extends Component {
                     className="btn btn-primary px-4 py-2 btn-sm"
                   >
                     Live Demo
+                  </a>
+                  <a
+                    href="https://github.com/jarjar721/SIS-I"
+                    className="btn btn-secondary px-4 py-2 btn-sm"
+                  >
+                    GitHub Repository
                   </a>
                 </p>
               </div>
