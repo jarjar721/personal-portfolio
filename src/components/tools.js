@@ -23,21 +23,21 @@ export default class Tools extends Component {
             </div>
           </div>
 
-          <p class="intro">
+          <p className="intro">
             More than 2 years wielding their power crafting web applications
           </p>
 
-          <ul class="technologies list-inline">
-            <li class="list-inline-item">
+          <ul className="technologies list-inline">
+            <li className="list-inline-item">
               <img src={ReactIcon} alt="" />
             </li>
-            <li class="list-inline-item">
+            <li className="list-inline-item">
               <img src={NodeIcon} alt="" />
             </li>
-            <li class="list-inline-item">
+            <li className="list-inline-item">
               <img src={LaravelIcon} alt="" />
             </li>
-            <li class="list-inline-item">
+            <li className="list-inline-item">
               <img src={PostgresIcon} alt="" />
             </li>
           </ul>
