@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 import NavigationBar from "./components/navbar";
 import Home from "./components/home";

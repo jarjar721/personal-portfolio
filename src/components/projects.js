@@ -2,16 +2,20 @@ import React, { Component } from "react";
 
 import Laptop1 from "../resources/images/sis-i-gif.gif";
 
+import { I18nextProvider } from "react-i18next";
+import i18n from "../i18n";
+
 export default class Projects extends Component {
   render() {
     return (
+      <I18nextProvider i18n={i18n}>
       <section className="site-section" id="section-projects">
         <div className="container">
-          <div className="row mb-4">
+          <div className="row">
             <div className="col-md-12">
               <div className="section-heading text-center">
                 <h2>
-                  My <strong>Projects</strong>
+                  {i18n.t("my")}<strong> {i18n.t("projects")}</strong>
                 </h2>
               </div>
             </div>
@@ -24,46 +28,40 @@ export default class Projects extends Component {
             </div>
             <div className="col-md-4">
               <h3 className="mb-3">
-                Sistema Administrativo de Investigaciones (SIS-I)
+              {i18n.t("SISI")}
               </h3>
               <p>
-                An administrative tool to draft theses, research papers and
-                investigations following the research methodology proposed by
-                Jaqueline Hurtado Barrera.
+                {i18n.t("SISIDescription")}
               </p>
 
               <ul className="site-list">
                 <li className="site-check">
-                  Built using Laravel Framework with PostgreSQL
+                  {i18n.t("bullet1")}
                 </li>
                 <li className="site-check">
-                  Integrated Access Control and Priviledge Management
+                  {i18n.t("bullet2")}
                 </li>
                 <li className="site-check">
-                  Scalable ER Diagram for larger investigations
+                  {i18n.t("bullet3")}
                 </li>
               </ul>
 
               <div className="text-center">
                 <p>
-                  <a
-                    href="https://sis-i.herokuapp.com"
-                    className="btn btn-primary px-4 py-2 btn-sm"
-                  >
-                    Live Demo
+                  <a href="https://sis-i.herokuapp.com" className="btn btn-primary px-4 py-2 btn-sm">
+                    {i18n.t("demo")}
                   </a>
-                  <a
-                    href="https://github.com/jarjar721/SIS-I"
-                    className="btn btn-secondary px-4 py-2 btn-sm"
-                  >
-                    GitHub Repository
+                  <a href="https://github.com/jarjar721/SIS-I" className="btn btn-secondary px-4 py-2 btn-sm">
+                    {i18n.t("repo")}
                   </a>
                 </p>
               </div>
             </div>
           </div>
+          
         </div>
       </section>
+      </I18nextProvider>
     );
   }
 }
