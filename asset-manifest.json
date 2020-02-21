@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.b8524cc8.chunk.css",
-    "main.js": "/personal-portfolio/static/js/main.e3b619f8.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.e3b619f8.chunk.js.map",
+    "main.css": "/personal-portfolio/static/css/main.9c5c584b.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.689e2a08.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.689e2a08.chunk.js.map",
     "runtime~main.js": "/personal-portfolio/static/js/runtime~main.8fd806ec.js",
     "runtime~main.js.map": "/personal-portfolio/static/js/runtime~main.8fd806ec.js.map",
-    "static/js/2.48ff5bb7.chunk.js": "/personal-portfolio/static/js/2.48ff5bb7.chunk.js",
-    "static/js/2.48ff5bb7.chunk.js.map": "/personal-portfolio/static/js/2.48ff5bb7.chunk.js.map",
+    "static/js/2.850f33d8.chunk.js": "/personal-portfolio/static/js/2.850f33d8.chunk.js",
+    "static/js/2.850f33d8.chunk.js.map": "/personal-portfolio/static/js/2.850f33d8.chunk.js.map",
     "index.html": "/personal-portfolio/index.html",
-    "precache-manifest.3f2ed8ac4bc509a5c6ad0f6104d35844.js": "/personal-portfolio/precache-manifest.3f2ed8ac4bc509a5c6ad0f6104d35844.js",
+    "precache-manifest.6b02cedb8e00f0c92bad3b02b86d33be.js": "/personal-portfolio/precache-manifest.6b02cedb8e00f0c92bad3b02b86d33be.js",
     "service-worker.js": "/personal-portfolio/service-worker.js",
-    "static/css/main.b8524cc8.chunk.css.map": "/personal-portfolio/static/css/main.b8524cc8.chunk.css.map",
+    "static/css/main.9c5c584b.chunk.css.map": "/personal-portfolio/static/css/main.9c5c584b.chunk.css.map",
     "static/media/about_me.jpg": "/personal-portfolio/static/media/about_me.ab44e4f3.jpg",
     "static/media/style.css": "/personal-portfolio/static/media/icomoon.fdc5b341.woff",
     "static/media/intlTelInput.css": "/personal-portfolio/static/media/flags@2x.d429a577.png",
@@ -18,6 +18,7 @@
     "static/media/laravel-ar21.svg": "/personal-portfolio/static/media/laravel-ar21.d77348fb.svg",
     "static/media/nodejs-icon.svg": "/personal-portfolio/static/media/nodejs-icon.5c376133.svg",
     "static/media/postgresql-icon.svg": "/personal-portfolio/static/media/postgresql-icon.96889989.svg",
+    "static/media/power-bi-icon.svg": "/personal-portfolio/static/media/power-bi-icon.1515e5ed.svg",
     "static/media/reactjs-icon.svg": "/personal-portfolio/static/media/reactjs-icon.70384772.svg",
     "static/media/sis-i-gif.gif": "/personal-portfolio/static/media/sis-i-gif.5d5fbf14.gif"
   }
